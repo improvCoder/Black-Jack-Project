@@ -1,5 +1,5 @@
 # Black-Jack-Project
-##Team members
+## Team members
 * Andrew Nguyen
 * Ishwdeep Singh
 * Sandeep Deoja
